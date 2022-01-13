@@ -1,0 +1,7 @@
+git branch
+git branch ali_pay           создается ветка, но в нее не заходит
+git checkout -b amazon_pay   создается ветка и заходит в нее
+start .     открыть папку репозитория
+git checkout ali_pay переместиться в aly_pay
+git checkout main свитч в main
+cat > pay_1.txt с текстом
